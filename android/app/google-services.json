@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "8432537012",
+    "firebase_url": "https://student-42473.firebaseio.com",
+    "project_id": "student-42473",
+    "storage_bucket": "student-42473.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8432537012:android:2df0ea4ec694ce39",
+        "android_client_info": {
+          "package_name": "com.students.abdo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKvUD7szNa_7b-LYQD_8J69K7ge4YqXWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8432537012-b19ni2rlgr22b90fp21ouhetk06t1vua.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "8432537012-cq795tq7707f96a7js685duq8bqr6q8j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.students.abdo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
